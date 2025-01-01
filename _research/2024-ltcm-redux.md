@@ -1,6 +1,7 @@
 ---
 title: "LTCM Redux? Hedge Fund Treasury Trading, Funding Fragility, and Risk Constraints"
 collection: research
+category: published
 permalink: /research/2024-ltcm-redux
 date: 2023-10-01
 venue: 'Journal of Financial Economics (accepted)'
