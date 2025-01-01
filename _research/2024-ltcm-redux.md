@@ -3,7 +3,6 @@ title: "LTCM Redux? Hedge Fund Treasury Trading, Funding Fragility, and Risk Con
 collection: research
 category: published
 permalink: /research/2024-ltcm-redux
-date: 2024-12-31
 venue: 'Journal of Financial Economics (accepted)'
 paperurl: "/files/pdf/research/LTCM_Redux_draft.pdf"
 link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3817978'
