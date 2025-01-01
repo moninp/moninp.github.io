@@ -27,7 +27,7 @@ author:
   bio              : "Economist and Mathematician"
   location         : "Washington, D.C."
   employer         : "Federal Reserve Board"
-  uri              : # URL
+  uri              : "https://www.federalreserve.gov/econres/phillip-monin.htm" # URL
   email            : "monin.phillip@gmail.com" 
 
   # Academic websites
